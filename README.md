@@ -1,4 +1,8 @@
-<h1 align="center">damanrud</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=damanrud)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
